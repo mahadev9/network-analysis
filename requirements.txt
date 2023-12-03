@@ -11,3 +11,4 @@ torch_geometric
 plotly
 scikit-learn
 node2vec
+matplotlib
